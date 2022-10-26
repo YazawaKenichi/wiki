@@ -27,6 +27,7 @@ sample2 : sample2.cpp sample2.h
 変数を使用するときは `$()` でくくる。
 
 世間一般的によく使用する変数名
+
 SRCFILES / SOURCES / DEPENDS / OBJS / OBJECTS / HEADERS / INCLUDES / CC / CFLAGS / CPPFLAGS / LDFLAGS / LDLIBS etc..
 
 `Makefile`
