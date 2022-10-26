@@ -188,6 +188,10 @@ clean:
 
 ### オブジェクトファイルから
 
+[自分用に作ったテンプレート](https://github.com/YazawaKenichi/wiki/blob/main/Makefile/Makefile) はこっちの方法。
+
+実用化してるだけあって扱いやすいように記述している。
+
 #### Makefile
 ```
 PROGRAM = Project
