@@ -137,7 +137,7 @@ sub.o: sub.cpp sub.h
 |-c|オブジェクトファイル .o を作成
 |-g|デバッグ情報の生成
  
-## Makefile テンプレート
+## [Makefile のテンプレート](https://github.com/YazawaKenichi/wiki/blob/main/Makefile/Makefile)
 
 自分用に Makefile のテンプレートを作っておく。
 
