@@ -252,11 +252,11 @@ $(BINS)/$(SUB2).o: $(SRCS)/$(SUB2).$(CONT)
     ```
     
 ## 有能まとめ記事
-[特殊変数・自動変数 一覧](https://tex2e.github.io/blog/makefile/automatic-variables)
+- [特殊変数・自動変数 一覧](https://tex2e.github.io/blog/makefile/automatic-variables)
 
 ## ここに来るまでに参考にしたサイト
-[Makefile の解説](http://omilab.naist.jp/~mukaigawa/misc/Makefile.html)
-[Makefile の書き方（C 言語)](https://ie.u-ryukyu.ac.jp/~e085739/c.makefile.tuts.html)
+- [Makefile の解説](http://omilab.naist.jp/~mukaigawa/misc/Makefile.html)
+- [Makefile の書き方（C 言語)](https://ie.u-ryukyu.ac.jp/~e085739/c.makefile.tuts.html)
 
 
 
