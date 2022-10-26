@@ -1,4 +1,4 @@
-# Makefile 記述例
+# Makefile 備忘録
 
 ## Makefile の基本構造
 Makefile の基本構造は以下の通り。
