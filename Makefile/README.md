@@ -26,6 +26,9 @@ sample2 : sample2.cpp sample2.h
 ### 変数
 変数を使用するときは `$()` でくくる。
 
+世間一般的によく使用する変数名
+SRCFILES / SOURCES / DEPENDS / OBJS / OBJECTS / HEADERS / INCLUDES / CC / CFLAGS / CPPFLAGS / LDFLAGS / LDLIBS etc..
+
 `Makefile`
 ```
 CC = g++
@@ -246,4 +249,15 @@ $(BINS)/$(SUB2).o: $(SRCS)/$(SUB2).$(CONT)
         $(CC) $(CFLAGS) -o $@ -c $<
     
     ```
+    
+## 有能まとめ記事
+[特殊変数・自動変数 一覧](https://tex2e.github.io/blog/makefile/automatic-variables)
+
+## ここに来るまでに参考にしたサイト
+[Makefile の解説](http://omilab.naist.jp/~mukaigawa/misc/Makefile.html)
+[Makefile の書き方（C 言語)](https://ie.u-ryukyu.ac.jp/~e085739/c.makefile.tuts.html)
+
+
+
+
 
